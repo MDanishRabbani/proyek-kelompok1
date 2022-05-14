@@ -4,7 +4,7 @@
 #include <string.h>
 #include <conio.h>
 
-// Deklarasi untuk public
+// Deklarasi untuk publi
 int login();
 void skor(int);
 void header();
